@@ -8,4 +8,4 @@
    -[x] Functional Interfaces - Lambdes - Streams  
    -[ ] Abstract class Vs Interfaces  
    -[ ] Constructor privat - Singleton  
-   -[ ] Solid - S i O  
+   -[ ] Solid - S, O, L ...  
