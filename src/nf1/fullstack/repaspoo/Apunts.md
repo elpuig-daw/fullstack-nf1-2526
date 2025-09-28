@@ -36,3 +36,19 @@ Aquí tens una taula amb els tipus d'encapsulació en Java i les seves caracter�
 5. Una classe pot implementar varies interfaces
 6. Es diu que la classe es de tipus NomInterface si aquesta classe implementa a NomInterface
 </pre>
+
+
+## Arquitectures
+
+MVC, Hexagonal, microserveis,…
+
+| Arquitectura | Escalabilitat | Mantenibilitat | Complexitat | Exemple |
+| --- | --- | --- | --- | --- |
+| MVC | Mitjana | Mitjana | Baixa | Django, Spring MVC |
+| En capes | Alta | Alta | Mitjana | Aplicacions Java clàssiques |
+| Hexagonal | Alta | Alta | Alta | Apps que busquen testabilitat |
+| Clean Architecture | Molt alta | Molt alta | Alta | Projectes grans o crítics |
+| Microserveis | Molt alta | Alta | Molt alta | Arquitectures distribuïdes |
+| Serverless | Alta | Mitjana | Variable | Aplicacions al núvol |
+
+
