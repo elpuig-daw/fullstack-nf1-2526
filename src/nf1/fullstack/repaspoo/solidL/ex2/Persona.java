@@ -22,7 +22,7 @@ class Anglesa extends Persona {
         super(nom);
     }
 
-    public void greetings() {
+    public void saludar() {
         System.out.println("Hello!");
     }
 }
@@ -49,7 +49,7 @@ class Main {
 
         if(persona instanceof Anglesa){
             Anglesa a = (Anglesa) persona;
-            a.greetings();
+            a.saludar();
         }
         if(persona instanceof Catalana) {
             Catalana c = (Catalana) persona;
