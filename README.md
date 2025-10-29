@@ -8,7 +8,7 @@
    -[x] Functional Interfaces - Lambdes - Streams  
    -[X] Abstract class Vs Interfaces  
    -[X] Constructor privat - Singleton  
-   -[X] Solid - S, O, L ...
-   -[X] MVC
-   -[X] Hexagonal
+   -[X] Solid - S, O, L ...  
+   -[X] MVC  
+   -[X] Hexagonal  
    -[ ] Spring  
