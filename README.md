@@ -6,6 +6,9 @@
    -[x] Repàs de POO (Classe, Objecte, tipus, ...)  
    -[x] Interfaces  
    -[x] Functional Interfaces - Lambdes - Streams  
-   -[ ] Abstract class Vs Interfaces  
-   -[ ] Constructor privat - Singleton  
-   -[ ] Solid - S, O, L ...  
+   -[X] Abstract class Vs Interfaces  
+   -[X] Constructor privat - Singleton  
+   -[X] Solid - S, O, L ...  
+   -[X] MVC  
+   -[X] Hexagonal  
+   -[ ] Spring  
